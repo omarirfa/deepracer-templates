@@ -13,9 +13,9 @@
 
 
 ### Tips and tricks
-- It is really important to get your model to converge and understand how to do so. The more complex the reward function the more time it will take to converge and you will subsequently need to tune the hyperparameters as well.
-- A log analysis is important since you can further improve your function by using the custom waypoints parameter. You can find more details at [AWS-deepracer-workshops].
-- steering angle, steering threshold and closest_waypoints can be improved using math functions so that the car calculates the waypoints on the fly.
+- Model convergence and knowing how your model works is quite important before setting it up to run. The more complex the reward function the more time it will take to converge and you will subsequently need to tune the hyperparameters as well.
+- Log analysis can further improve the reward function by using the custom waypoints parameter. You can find more details at [AWS-deepracer-workshops].
+- Steering angle, steering threshold and closest_waypoints can be improved using math functions so that the car calculates the waypoints on the fly.
 
 
 
